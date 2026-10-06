@@ -78,7 +78,7 @@ There are **two sketches** in this repo:
 | 4-channel logic level converter | Two rows of 6 pins: `LV1 LV2 LV GND LV3 LV4` and `HV1 HV2 HV GND HV3 HV4` |
 | 10 kΩ potentiometer | 3 pins. The middle one is the output |
 | 1.3" OLED, SH1106 driver, 128×64, I2C | Address `0x3C` (try `0x3D` if blank) |
-| Breadboard + jumper wires | About 22 wires |
+| Breadboard + jumper wires | 22 wires |
 
 ## Wiring
 
